@@ -1,8 +1,9 @@
 ---
+title: ''
 layout: home
-permalink: /
+permalink: "/"
 image:
-  feature: wood-texture-1600x800.jpg
+  feature: "/forestryio/images/pants.png"
 ---
 
 <div class="tiles">
